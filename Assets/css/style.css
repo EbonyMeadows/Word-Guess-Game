@@ -1,0 +1,29 @@
+.photo {
+    position: relative;
+  }
+
+.box {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background-color:  yellow;
+}
+
+#bass {
+    position: absolute;
+    top: 15em;
+    left: 32em;
+}
+
+#house {
+    position: absolute;
+    top: 15em;
+    left: 14em;
+}
+
+#trap {
+    position: absolute;
+    top: 15em;
+    left: 50em;
+}
+
